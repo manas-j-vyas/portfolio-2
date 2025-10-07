@@ -196,6 +196,12 @@
       }
     }
   });
+  
+  // Form validation and reset data
+  function resetForm(form) {
+  setTimeout(() => form.reset(), 100); // clears form after submit
+  return true; // continue submit
+}
 
   /**
    * Navmenu Scrollspy
