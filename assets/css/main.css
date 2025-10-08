@@ -1199,7 +1199,7 @@ section,
 .portfolio .portfolio-card .portfolio-image {
   position: relative;
   overflow: hidden;
-  aspect-ratio: 16/10;
+  /* aspect-ratio: 16/10; */
 }
 
 .portfolio .portfolio-card .portfolio-image img {
@@ -1280,6 +1280,10 @@ section,
   color: color-mix(in srgb, var(--default-color), transparent 30%);
   margin: 0;
   line-height: 1.6;
+}
+.vistar1{
+  left: 0px !important;
+  top: 70% !important;
 }
 
 @media (max-width: 768px) {
