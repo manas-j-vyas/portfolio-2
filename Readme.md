@@ -30,8 +30,8 @@ This portfolio is built using:
 
 ## 🖼️ Screenshots
 
-![Portfolio Desktop View](assets/img/screenshot-desktop.png)  
-![Portfolio Mobile View](assets/img/screenshot-mobile.png)  
+![Portfolio Desktop View](/assets/img/views/portfolio-desktop-view.png)  
+![Portfolio Mobile View](/assets/img/views/portfolio-mobile-view.png)  
 
 ## 📚 Resources
 
